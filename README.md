@@ -88,13 +88,7 @@ Contributions are welcome! If you have ideas for new features (e.g., a better UI
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## ⭐ If You Like This...
 
